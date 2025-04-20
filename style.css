@@ -1,0 +1,65 @@
+/* full‐screen centered container */
+.container {
+    width: 100%;
+    height: 100vh;
+    background: #e0e9ec;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* the calculator “body” */
+  .calculator {
+    background: hsl(210, 50%, 75%);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* all buttons & display field */
+  .calculator form input {
+    border: 0;
+    outline: 0;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    box-shadow:
+      8px -8px 15px rgba(255, 255, 255, 0.1),
+      5px 5px 15px rgba(0, 0, 0, 0.2);
+    background: transparent;
+    font-size: 20px;
+    color: #181818;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  /* the display row */
+  .calculator .display {
+    display: flex;
+    justify-content: flex-end;
+    max-width: 280px;
+    margin-bottom: 10px;
+  }
+  
+  /* the read‐out field */
+  .calculator .display input {
+    text-align: right;
+    flex: 1;
+    font-size: 45px;
+    box-shadow: none;
+  }
+  
+  /* make operator buttons red */
+  .calculator form input.operator {
+    color: #fa1313;
+  }
+  
+  /* make the “=” button twice as wide */
+  .calculator form input.equal {
+    width: 145px;
+  }
+  
+  /* ensure the output field spans the row */
+  .calculator form input.output {
+    width: 90%;
+  }
+  
