@@ -14,11 +14,11 @@ Welcome to **Beautiful Web Calculator**, a stylish and responsive web-based calc
 
 ## 🔧 Features
 
-- ✅ Perform basic arithmetic: Addition, Subtraction, Multiplication, Division
-- 💡 Real-time output using clean JavaScript logic
-- 🎨 Beautiful and modern design using HTML & CSS
-- 📱 Fully responsive – works across devices
-- 🌙 Elegant dark-themed interface
+- ✅ Perform basic arithmetic: Addition, Subtraction, Multiplication, Division  
+- 💡 Real-time output using clean JavaScript logic  
+- 🎨 Beautiful and modern design using HTML & CSS  
+- 📱 Fully responsive – works across devices  
+- 🌙 Elegant dark-themed interface  
 
 ---
 
@@ -29,6 +29,10 @@ beautiful_web_calculator-/
 ├── style.css # Styling and layout
 ├── script.js # Logic and functionality
 └── README.md # Project documentation
+
+yaml
+Copy
+Edit
 
 ---
 
