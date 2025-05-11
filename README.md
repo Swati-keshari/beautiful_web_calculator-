@@ -11,31 +11,24 @@ Welcome to **Beautiful Web Calculator**, a stylish and responsive web-based calc
 👉 [Click here to try it now!](https://swati-keshari.github.io/beautiful_web_calculator-/)
 
 ---
+👉 Click here to try it now!
 
-## 🔧 Features
-
-- ✅ Perform basic arithmetic: Addition, Subtraction, Multiplication, Division  
-- 💡 Real-time output using clean JavaScript logic  
-- 🎨 Beautiful and modern design using HTML & CSS  
-- 📱 Fully responsive – works across devices  
-- 🌙 Elegant dark-themed interface  
-
----
-
-## 📁 Project Structure
-'''
+🔧 Features
+✅ Perform basic arithmetic: Addition, Subtraction, Multiplication, Division
+💡 Real-time output using clean JavaScript logic
+🎨 Beautiful and modern design using HTML & CSS
+📱 Fully responsive – works across devices
+🌙 Elegant dark-themed interface
+📁 Project Structure
 beautiful_web_calculator-/
 ├── index.html # Structure of the calculator
 ├── style.css # Styling and layout
 ├── script.js # Logic and functionality
 └── README.md # Project documentation
-'''
----
-
-## 🚀 Getting Started
-
+🚀 Getting Started
 To run this project locally:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Swati-keshari/beautiful_web_calculator-.git
+Clone the repository:
+bash
+git clone https://github.com/Swati-keshari/beautiful_web_calculator-.git
+Open index.html in your browser
