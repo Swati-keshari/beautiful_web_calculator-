@@ -24,3 +24,18 @@ Welcome to **Beautiful Web Calculator**, a stylish and responsive web-based calc
 
 ## 📁 Project Structure
 
+beautiful_web_calculator-/
+├── index.html # Structure of the calculator
+├── style.css # Styling and layout
+├── script.js # Logic and functionality
+└── README.md # Project documentation
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Swati-keshari/beautiful_web_calculator-.git
