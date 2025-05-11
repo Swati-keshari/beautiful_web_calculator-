@@ -23,17 +23,13 @@ Welcome to **Beautiful Web Calculator**, a stylish and responsive web-based calc
 ---
 
 ## 📁 Project Structure
-
+'''
 beautiful_web_calculator-/
 ├── index.html # Structure of the calculator
 ├── style.css # Styling and layout
 ├── script.js # Logic and functionality
 └── README.md # Project documentation
-
-yaml
-Copy
-Edit
-
+'''
 ---
 
 ## 🚀 Getting Started
